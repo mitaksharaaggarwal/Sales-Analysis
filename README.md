@@ -16,7 +16,7 @@ The dataset used for this analysis was sourced from Kaggle and contains 30,000 r
 
 Data cleaning and preprocessing were performed using Excel, including handling missing values and standardizing formats. Pivot tables and conditional formatting were applied to identify patterns and trends. Statistical formulas were used to evaluate sales performance, and an interactive dashboard was developed to visualize key insights, enabling stakeholders to quickly understand trends and make informed decisions.
 
-Please download the Media(zip).zip file to access all screenshots and recordings.
+All the Related Charts are in the Report (Different Sheets)
 
 
 
